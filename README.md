@@ -1,2 +1,24 @@
-# MyBlog
-弄到一个博主给女朋友还未写完的vue项目，我把它改成了我自己的个人博客（功能还在完善中，都还没有做完），有需要的朋友可以获取
+# vue_test
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
